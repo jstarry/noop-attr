@@ -1,0 +1,9 @@
+[package]
+name = "noop-attr"
+version = "0.1.0"
+authors = ["Justin Starry"]
+description = "A proc macro attribute that does nothing"
+edition = "2018"
+
+[lib]
+proc-macro = true

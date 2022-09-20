@@ -10,3 +10,6 @@ edition = "2018"
 
 [lib]
 proc-macro = true
+
+[features]
+no-arguments = []
